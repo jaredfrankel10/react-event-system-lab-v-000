@@ -8,4 +8,4 @@ import React from 'react';
      render () {
          return (<input type='password' onKeyUp={this.logPasswordEntering}/>)
      }
- } 
+ }
